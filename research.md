@@ -6,5 +6,15 @@ permalink: /research/
 
 {% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.
+My research is centered on improving the potency of intrusion detection systems.
+This includes investigating the detection of security bug exploits in application (Docker) containers using Machine Learning (ML) algorithms, particularly unsupervised ML techniques. 
+More recently, I have been investigating the quality of container data for related anomaly detection techniques.
 
+Here are links to my current projects. 
+
+
+#### Publications
+
+"A Study on Container Vulnerability Exploit Detection", 
+Olufogorehan Tunde-Onadele, Jingzhu He, Ting Dai, and Xiaohui Gu
+Proc. of IEEE International Conference on Cloud Engineering (IC2E), Prague, Czech Republic, June, 2019

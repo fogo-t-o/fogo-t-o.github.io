@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
+{% include image.html url="/images/FogoOfficial.png" caption="" width=300 align="right" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.
+Fogo is a second year Computer Science PhD student from Lagos, Nigeria. 
+He has been an NC State student for six years, starting out as an undergraduate in Electrical and Computer Engineering. 
+His main research interests are in Machine Learning and Security. 
+He is exploring these topics at the Distributed Systems (DANCE) Lab supervised by Dr. Xiaohui (Helen) Gu.
 
+Believe it or not, Fogo has interests aside from academics. Fogo enjoys music; sports like basketball, soccer and racquetball as well as video games such as Tekken, Super Smash Bros., and Rocket League.

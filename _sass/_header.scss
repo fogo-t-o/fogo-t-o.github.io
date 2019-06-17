@@ -3,9 +3,9 @@
  */
 .site-header {
     border-top: 0px solid $grey-color-dark;
-	border-bottom: 4px solid $clemson-purple;
+	border-bottom: 4px solid $ncsu-black;
     min-height: 56px;
-    background: $clemson-orange;
+    background: $ncsu-red;
     // Positioning context for the mobile navigation icon
     position: relative;
 
@@ -87,18 +87,18 @@ color: #522d80;
 }
 
 .site-nav .sub-menu a:hover {
-	color: $clemson-orange;
+	color: $ncsu-red;
 }
 .site-nav  .sub-menu {
 	background: #ffffff;
-	border-color: $clemson-purple;
+	border-color: $ncsu-black;
 	min-width: 265px;
 
 	z-index:2147483647;
 }
 .site-nav .sub-menu li.current-menu-item > a {
-	border-left-color: $clemson-orange;
-	border-right-color: $clemson-orange;
+	border-left-color: $ncsu-red;
+	border-right-color: $ncsu-red;
 	border-right: 0px;
 
 }
