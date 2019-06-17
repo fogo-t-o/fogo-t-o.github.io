@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/FogoOfficial.png" caption="" width=300 align="right" %}
+{% include image.html url="/images/FogoOfficial.jpg" caption="" width=300 align="right" %}
 
 Fogo is a second year Computer Science PhD student from Lagos, Nigeria. 
 He has been an NC State student for six years, starting out as an undergraduate in Electrical and Computer Engineering. 
