@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-{% include image.html url="/images/ncstate.png" caption="" width=300 align="right" %}
+{% include image.html url="/images/ncstate-black-brick.png" caption="" width=300 align="right" %}
 
 My research is centered on improving the potency of intrusion detection systems.
 This includes investigating the detection of security bug exploits in application (Docker) containers using Machine Learning (ML) algorithms, particularly unsupervised ML techniques.  
