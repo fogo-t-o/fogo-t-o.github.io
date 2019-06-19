@@ -4,16 +4,16 @@ title: Research
 permalink: /research/
 ---
 
-{% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
+{% include image.html url="/images/ncstate.png" caption="" width=300 align="right" %}
 
 My research is centered on improving the potency of intrusion detection systems.
 This includes investigating the detection of security bug exploits in application (Docker) containers using Machine Learning (ML) algorithms, particularly unsupervised ML techniques.  
 More recently, I have been investigating the quality of container data for related anomaly detection techniques.
 
-Here are links to my current projects. 
+Here are links to my projects. 
 
 
-### Publications  
+## Publications  
 
 "A Study on Container Vulnerability Exploit Detection",  
 Olufogorehan Tunde-Onadele, Jingzhu He, Ting Dai, and Xiaohui Gu  

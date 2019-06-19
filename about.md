@@ -11,4 +11,4 @@ He has been an NC State student for six years, starting out as an undergraduate 
 His main research interests are in Machine Learning and Security. 
 He is exploring these topics at the Distributed Systems (DANCE) Lab supervised by Dr. Xiaohui (Helen) Gu.
 
-Believe it or not, Fogo has interests aside from academics. Fogo enjoys music; sports like basketball, soccer and racquetball as well as video games such as Tekken, Super Smash Bros., and Rocket League.
+Believe it or not, Fogo has interests aside from academics. For instance, he enjoys music, basketball and Tekken.
