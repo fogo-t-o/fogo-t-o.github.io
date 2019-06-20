@@ -10,7 +10,7 @@ My research is centered on improving the potency of intrusion detection systems.
 This includes investigating the detection of security bug exploits in application (Docker) containers using Machine Learning (ML) algorithms, particularly unsupervised ML techniques.  
 More recently, I have been investigating the quality of container data for related anomaly detection techniques.
 
-Here are links to my projects. 
+Here are my projects.  
 
 
 ## Publications  
