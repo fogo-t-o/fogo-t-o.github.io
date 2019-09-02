@@ -12,16 +12,15 @@ More recently, I have been investigating the quality of container data for relat
 
 Here are my projects.  
   
-
 ## Publications  
 
 "A Study on Container Vulnerability Exploit Detection",  
 **Olufogorehan Tunde-Onadele**, Jingzhu He, Ting Dai, and Xiaohui Gu.
-Proc. of IEEE International Conference on Cloud Engineering (IC2E), Prague, Czech Republic, June, 2019. [pdf](http://dance.csc.ncsu.edu/papers/IC2E19.pdf)
+Proc. of IEEE International Conference on Cloud Engineering (IC2E), Prague, Czech Republic, June, 2019. [[pdf](http://dance.csc.ncsu.edu/papers/IC2E19.pdf)]  
   
   
   
-## Patents 
+## Patents  
 
 [//]: # ("Universal Methodology for Multitier Key-Value Store Platform Adapting",)
 [//]: # ([Author List])
