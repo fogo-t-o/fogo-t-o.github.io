@@ -1,4 +1,4 @@
-My site is based on the template below
+My site is based on the template below:
 
 =====================================
 Steve's No-Good-Very-Bad Jekyll Theme
