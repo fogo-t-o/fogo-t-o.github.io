@@ -22,9 +22,9 @@ Proc. of IEEE International Conference on Cloud Engineering (IC2E), Prague, Czec
   
 ## Patents  
 
-[//]: # ("Universal Methodology for Multitier Key-Value Store Platform Adapting",)
-[//]: # ([Author List])
-[//]: # ([Patent Pending])
+"Universal Methodology for Multitier Key-Value Store Platform Adapting",  
+Zhengyu Yang, Thomas Rainey, Kurt Gehlen, Ping Wong, Venkatraman Balasubramanian, **Olufogorehan Tunde-Onadele**, Nithya Ramakrishnan, David Evans, and Clay Mayers.  
+[Patent Pending]  
 
 "Spike Detection and Load Balancing Resource Management in Cloud Computing",  
 Venkatraman Balasubramanian, **Olufogorehan Tunde-Onadele**, Zhengyu Yang, Ping Wong, Nithya Ramakrishnan, David Evans, and Clay Mayers.  
