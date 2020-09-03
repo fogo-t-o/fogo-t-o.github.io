@@ -15,12 +15,12 @@ Here are my projects.
 ## Publications  
 
 "Self-Patch: Beyond Patch Tuesday for Containerized Applications",  
-**Olufogorehan Tunde-Onadele**, Yuhang Lin, Jingzhu He, and Xiaohui Gu.
+**Olufogorehan Tunde-Onadele**, Yuhang Lin, Jingzhu He, and Xiaohui Gu.  
 Proc. of IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS), Washington, DC, August, 2020. (Virtual) [[pdf]()]  
   
-"CDL: Classified Distributed Learning for Detecting Security Attacks in Containerized Applications",
-Yuhang Lin, **Olufogorehan Tunde-Onadele**, and Xiaohui Gu.
-Proc. of Annual Computer Security Applications Conference (ACSAC), Austin, TX, December, 2020. [[pdf]()]
+"CDL: Classified Distributed Learning for Detecting Security Attacks in Containerized Applications",  
+Yuhang Lin, **Olufogorehan Tunde-Onadele**, and Xiaohui Gu.  
+Proc. of Annual Computer Security Applications Conference (ACSAC), Austin, TX, December, 2020. [[pdf]()]  
 
 "A Study on Container Vulnerability Exploit Detection",  
 **Olufogorehan Tunde-Onadele**, Jingzhu He, Ting Dai, and Xiaohui Gu.
