@@ -15,11 +15,11 @@ Here are my projects.
 ## Publications  
 “Understanding Software Security Vulnerabilities in Cloud Server Systems,”  
 **Olufogorehan Tunde-Onadele**, Yuhang Lin, Xiaohui Gu, and Jingzhu He.  
-Proc. of the 10th IEEE International Conference on Cloud Engineering (IC2E), Pacific Grove, CA, September, 2022. [[pdf](https://dance.csc.ncsu.edu/papers/IC2E22.pdf)]  
+Proc. of the 10th IEEE International Conference on Cloud Engineering (IC2E), Pacific Grove, CA, September, 2022. [[pdf](http://dance.csc.ncsu.edu/papers/IC2E22.pdf)]  
   
 “SHIL: Self-Supervised Hybrid Learning for Security Attack Detection in Containerized Applications,”  
 Yuhang Lin, **Olufogorehan Tunde-Onadele**, Xiaohui Gu, Jingzhu He, and Hugo Latapie.  
-Proc. of the 3rd IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS), Los Angeles, CA, September, 2022. [[pdf](https://dance.csc.ncsu.edu/papers/ACSOS22.pdf)]  
+Proc. of the 3rd IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS), Los Angeles, CA, September, 2022. [[pdf](http://dance.csc.ncsu.edu/papers/ACSOS22.pdf)]  
 
 "Self-Patch: Beyond Patch Tuesday for Containerized Applications",  
 **Olufogorehan Tunde-Onadele**, Yuhang Lin, Jingzhu He, and Xiaohui Gu.  
@@ -27,7 +27,7 @@ Proc. of IEEE International Conference on Autonomic Computing and Self-Organizin
   
 "CDL: Classified Distributed Learning for Detecting Security Attacks in Containerized Applications",  
 Yuhang Lin, **Olufogorehan Tunde-Onadele**, and Xiaohui Gu.  
-Proc. of Annual Computer Security Applications Conference (ACSAC), Austin, TX, December, 2020. [[pdf](https://dance.csc.ncsu.edu/papers/ACSAC20.pdf)]  
+Proc. of Annual Computer Security Applications Conference (ACSAC), Austin, TX, December, 2020. [[pdf](http://dance.csc.ncsu.edu/papers/ACSAC20.pdf)]  
 
 "A Study on Container Vulnerability Exploit Detection",  
 **Olufogorehan Tunde-Onadele**, Jingzhu He, Ting Dai, and Xiaohui Gu.
